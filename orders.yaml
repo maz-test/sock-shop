@@ -11,7 +11,7 @@ paths:
       tags:
       - orders
       summary: "Create Orders"
-      description: "Creates an order for aa customer"
+      description: "Creates an order for a customer"
       operationId: ba3f307a-1c68-402c-a4d7-8af9fdbd5f33
       parameters: []
       requestBody:
